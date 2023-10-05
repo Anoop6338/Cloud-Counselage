@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aladin</item>
+        <item>@font/amarante</item>
+        <item>@font/antic</item>
+        <item>@font/arbutus</item>
+        <item>@font/bungee</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/carter_one</item>
+    </array>
+</resources>
